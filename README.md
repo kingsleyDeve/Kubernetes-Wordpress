@@ -2,37 +2,7 @@
 <html lang="fr">
 <head>
   <meta charset="UTF-8">
-  <title>WordPress + MySQL sur Kubernetes</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-      max-width: 800px;
-      margin: 2rem auto;
-      padding: 1rem;
-      background-color: #fdfdfd;
-      color: #333;
-    }
-    code, pre {
-      background: #f4f4f4;
-      padding: 0.5rem;
-      border-radius: 4px;
-      display: block;
-      overflow-x: auto;
-    }
-    table {
-      border-collapse: collapse;
-      width: 100%;
-      margin: 1rem 0;
-    }
-    th, td {
-      border: 1px solid #ddd;
-      padding: 8px;
-    }
-    th {
-      background: #f0f0f0;
-    }
-  </style>
+ 
 </head>
 <body>
 
